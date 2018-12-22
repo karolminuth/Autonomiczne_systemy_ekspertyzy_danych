@@ -51,10 +51,10 @@ def quick_sort(lista):
     return lista
 
 
-print("Lista1 -> ", lista1)
-print("Lista2 -> ", lista2)
-print("Lista3 -> ", lista3)
-print("--------- Po sortowaniu -----------")
+print("List1 -> ", lista1)
+print("List2 -> ", lista2)
+print("List3 -> ", lista3)
+print("--------- After sort -----------")
 
 start = time.time()
 bubble_sort(lista1)
